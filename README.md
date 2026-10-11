@@ -14,7 +14,9 @@ Building mobile and web products with clean architecture, thoughtful UX, and AI-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)](https://developer.android.com)
 [![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com)
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-mobark-3a572b180/) · [GitHub](https://github.com/Ahmed-Mobark)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-profile-5e139.web.app/)
+
+[Portfolio](https://my-profile-5e139.web.app/) · [LinkedIn](https://www.linkedin.com/in/ahmed-mobark-3a572b180/) · [GitHub](https://github.com/Ahmed-Mobark)
 
 Egypt · Open to opportunities in Saudi Arabia, the UAE, and Oman
 
@@ -44,6 +46,12 @@ I also use AI-assisted development and vibe coding to accelerate project analysi
 | Frontend and backend | Web interfaces, dashboards, backend services, Laravel, AI-assisted implementation |
 | AI-assisted engineering | Codebase analysis, rapid prototyping, refactoring, implementation workflows |
 
+## Portfolio
+
+Explore my [full portfolio](https://my-profile-5e139.web.app/) for selected mobile and web projects, work experience, technical skills, and published app links.
+
+Selected work includes real estate platforms, transport applications, healthcare products, and e-commerce experiences.
+
 ## Featured public work
 
 ### [HLS Playback for Low-End Devices](https://github.com/Ahmed-Mobark/POC1-Low-End-Device-Video-Playback-)
@@ -70,4 +78,4 @@ A Laravel project associated with my ON TRACK sportswear brand.
 
 Interested in mobile engineering, team leadership, or AI-assisted product development?
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ahmed-mobark-3a572b180/).
+[Visit my portfolio](https://my-profile-5e139.web.app/) or [connect with me on LinkedIn](https://www.linkedin.com/in/ahmed-mobark-3a572b180/).
