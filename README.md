@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="./ahmed.png" width="180" alt="Ahmed Mobark" />
+<img src="./cover.png" width="100%" alt="Ahmed Mobark — Software Engineer, Flutter, Frontend and Backend" />
 
 # Ahmed Mobark
-### Senior Flutter Developer · Mobile Team Lead · AI Engineer
+### Software Engineer · Mobile Team Lead
 
-Building mobile products with clean architecture, thoughtful UX, and AI-assisted development.
+Flutter · Frontend & Backend · AI-Assisted Development & Vibe Coding
+
+Building mobile and web products with clean architecture, thoughtful UX, and AI-assisted development.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
@@ -22,7 +24,7 @@ Egypt · Open to opportunities in Saudi Arabia, the UAE, and Oman
 
 ## About me
 
-I'm a mobile developer and team lead with experience across Flutter and native Android. I build Android and iOS applications, turn business requirements into maintainable features, and support teams through architecture decisions, code reviews, and mentoring.
+I'm a software engineer and mobile team lead with experience across Flutter and native Android. I also develop frontend interfaces and backend services using AI-assisted development and vibe coding. I build Android and iOS applications, turn business requirements into maintainable features, and support teams through architecture decisions, code reviews, and mentoring.
 
 My work spans real estate, travel and booking, healthcare, e-commerce, and delivery applications. I focus on reliable API integrations, clear state management, responsive interfaces, and Arabic/English experiences with RTL support.
 
@@ -39,6 +41,7 @@ I also use AI-assisted development and vibe coding to accelerate project analysi
 | Product features | Maps, location tracking, chat, push notifications, payments, deep links |
 | Localization | Arabic/English, RTL, easy_localization, intl |
 | Delivery and quality | CI/CD, profiling, debugging, store publishing, code review |
+| Frontend and backend | Web interfaces, dashboards, backend services, Laravel, AI-assisted implementation |
 | AI-assisted engineering | Codebase analysis, rapid prototyping, refactoring, implementation workflows |
 
 ## Featured public work
