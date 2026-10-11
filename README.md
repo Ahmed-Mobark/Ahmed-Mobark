@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./ahmed.png" width="180" alt="Ahmed Mobark" />
+
 # Ahmed Mobark
 ### Senior Flutter Developer · Mobile Team Lead · AI Engineer
 
